@@ -1,10 +1,10 @@
 .task-completed {
-    background-color: #d4edda; /* Verde claro */
+    background-color: #d4edda;
     text-decoration: line-through;
 }
 .task-pending {
-    background-color: #ffffff; /* Blanco */
+    background-color: #ffffff;
 }
 .task-expired {
-    background-color: #f8d7da; /* Rojo claro */
+    background-color: #f8d7da;
 }
