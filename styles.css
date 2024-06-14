@@ -1,0 +1,10 @@
+.task-completed {
+    background-color: #d4edda; /* Verde claro */
+    text-decoration: line-through;
+}
+.task-pending {
+    background-color: #ffffff; /* Blanco */
+}
+.task-expired {
+    background-color: #f8d7da; /* Rojo claro */
+}
